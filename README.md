@@ -4,6 +4,8 @@
   Hi there👋, I'm etyoun!
 </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=etyoun&theme=rising-sun)](https://git.io/streak-stats)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,materialui,py,aws,linux,postgres,docker,postman,flask,git,selenium,tensorflow,anaconda,vscode&perline=9)](https://skillicons.dev)
+<p align="center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=etyoun&theme=rising-sun&hide_border=true&background=FFFFFF00">
+  <br></br>
+  <img src = "https://skillicons.dev/icons?i=js,html,css,react,materialui,py,aws,linux,postgres,docker,postman,flask,git,selenium,tensorflow,anaconda,vscode&perline=9">
+</p>
